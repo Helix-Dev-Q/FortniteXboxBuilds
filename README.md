@@ -9,7 +9,7 @@ If something is wrong or missing, open an issue or pull request.
 
 ## Live now
 - **Game version:** 43.00 (server CL 60237243)
-- **Store download size:** Xbox One 69.3 GB, Xbox Series 95.0 GB, PC 52.5 GB
+- **Store download size:** Xbox One 69.6 GB, Xbox Series 91.1 GB, PC 52.2 GB
 
 ## Info
 - **Xbox Version / PC Version:** Game version and changelist, with the changelist read from that row's Xbox or PC link. The two differ when Xbox and PC got separate builds of the same update. `*` means the game version was worked out from neighbouring builds and may be slightly off.
